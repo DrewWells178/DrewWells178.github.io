@@ -1,0 +1,93 @@
+.my-name{
+    background-color: rgba(98, 144, 204, 1);
+    color: white;
+    text-shadow: #cc9e62c7 1px 0 10px;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 60px;
+    padding-top: 40px;
+    padding-left: 60px
+}
+
+.details-header{
+    padding-left: 60px;
+}
+
+button{
+    font-size: 18px;
+}
+
+.home_button{
+    border-color: rgba(98, 144, 204, 1);
+    border-style: solid;
+    border-width: 2px;
+    color: rgba(98, 144, 204, 1);
+    border-radius: 2px;
+    cursor: pointer;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+    margin-left: 800px;
+
+    transition: background_color 0.2s, color 0.2s;
+}
+
+.home_button:hover{
+    background-color: rgba(98, 144, 204, 1);
+    color: white;
+}
+
+.about-me_button{
+    border-color: rgba(98, 144, 204, 1);
+    border-style: solid;
+    border-width: 2px;
+    color: rgba(98, 144, 204, 1);
+    border-radius: 2px;
+    cursor: pointer;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+    transition: background_color 0.2s, color 0.2s;
+}
+
+.about-me_button:hover{
+    background-color: rgba(98, 144, 204, 1);
+    color: white;
+}
+
+.projects_button{
+    border-color: rgba(98, 144, 204, 1);
+    border-style: solid;
+    border-width: 2px;
+    color: rgba(98, 144, 204, 1);
+    border-radius: 2px;
+    cursor: pointer;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+    transition: background_color 0.2s, color 0.2s;
+}
+
+.projects_button:hover{
+    background-color: rgba(98, 144, 204, 1);
+    color: white;
+}
+
+.my-info{
+    font-family: Arial;
+    font-size: 26px;
+    text-align: center;
+    width: 500px;
+    padding-left: 400px;
+    padding-top: 100px;
+}
+
+body{
+    background-color: #cc9e62c7;
+}
